@@ -1,0 +1,1 @@
+This is code for creating a neural network to generate Obama speeches. The aim of the project is to provide a tool to scrape the data, a machine learning algorithm to train a neural network and a website that queries the neural network for a speech.
